@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janith Perera</h1>
 <h3 align="center">I'm undergradute Student at ICBT Campus</h3>
 
-- 🔭 I’m currently working on **Workship Management System**
+- 🔭 I’m currently working on **Work Shift Management System**
 
 - 👯 I’m looking to collaborate on **.Net Core Application, Mean and Mern Stackk**
 
